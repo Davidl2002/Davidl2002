@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Dark Universal Space Gaming Channel Banner.png" alt="¡Hola! Soy [Tu Nombre]">
+  <img src="./assets/Dark Universal Space Gaming Channel Banner.png" alt="¡Hola! Soy David">
 </p>
 
 # ¡Hola! 👋 Soy David Lopez
@@ -10,6 +10,7 @@
 
 - Desarrollo web con  HTML, CSS, JavaScript
 - Manejo de base de datos con MySQL, Oracle
+  ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🌱 Actualmente estoy aprendiendo
 
@@ -17,7 +18,7 @@ Estoy enfocado en mejorar mis habilidades en desarrollo web y aplicaciones movil
 
 ## 📫 Cómo contactarme
 
-- Correo electrónico: dl735894@gmail.com
+- Correo electrónico: dl735894@gmail.com (mailto:dl735894@gmail.com)
 
 ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones. Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
 
