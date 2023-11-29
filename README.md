@@ -1,16 +1,26 @@
-### Hi there 👋
+# ¡Hola! 👋 Soy [David Lopez]
 
-<!--
-**Davidl2002/Davidl2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Soy un estudiante universitario con experiencia en java, html, php. Realizo proyectos autonomos de mi universidad
 
-Here are some ideas to get you started:
+## 🚀 Mis habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desarrollo web con  HTML, CSS, JavaScript
+- Manejo de base de datos con MySQL, Oracle
+
+## 🌱 Actualmente estoy aprendiendo
+
+Estoy enfocado en mejorar mis habilidades en desarrollo web y aplicaciones moviles.
+
+
+
+## 📈 Estadísticas de GitHub
+
+![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+
+## 📫 Cómo contactarme
+
+- Correo electrónico: dl735894@gmail.com
+
+¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones. Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
+
+¡Hagamos cosas increíbles juntos! 🚀
