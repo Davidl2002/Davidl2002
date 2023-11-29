@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/Dark Universal Space Gaming Channel Banner.png" alt="¡Hola! Soy [Tu Nombre]">
+</p>
+
 # ¡Hola! 👋 Soy David Lopez
 
 ¡Bienvenido a mi perfil de GitHub! Soy un estudiante universitario con experiencia en java, html, php. Realizo proyectos autonomos de mi universidad
