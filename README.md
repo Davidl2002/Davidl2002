@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [David Lopez]
+# ¡Hola! 👋 Soy David Lopez
 
 ¡Bienvenido a mi perfil de GitHub! Soy un estudiante universitario con experiencia en java, html, php. Realizo proyectos autonomos de mi universidad
 
@@ -10,12 +10,6 @@
 ## 🌱 Actualmente estoy aprendiendo
 
 Estoy enfocado en mejorar mis habilidades en desarrollo web y aplicaciones moviles.
-
-
-
-## 📈 Estadísticas de GitHub
-
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
 
 ## 📫 Cómo contactarme
 
