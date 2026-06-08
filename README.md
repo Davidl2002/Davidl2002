@@ -48,9 +48,7 @@
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Davidl2002&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidl2002&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Lenguajes Top" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davidl2002&theme=tokyonight" alt="Estadísticas Detalladas" />
 </div>
 
 ---
