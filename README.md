@@ -1,31 +1,36 @@
-<p align="center">
-  <img src="./assets/Dark Universal Space Gaming Channel Banner.png" alt="¡Hola! Soy David">
-</p>
+# Hola, soy David Lopez 👋
 
-# ¡Hola! 👋 Soy David Lopez
+Soy Ingeniero de Software enfocado en el desarrollo Frontend, Backend y en la creación de experiencias web modernas e intuitivas.
 
-¡Bienvenido a mi perfil de GitHub! Soy un estudiante universitario con experiencia en java, html, php. Realizo proyectos autonomos de mi universidad
+## 🚀 Sobre Mí
+* 🎓 Estudiante de Ingeniería de Software en la Universidad Técnica de Ambato (UTA).
+* 💻 Apasionado por crear interfaces modernas, accesibles y con diseño responsivo, priorizando siempre la experiencia del usuario (UI/UX).
+* 🛠️ Mi stack principal incluye React, Next.js, Java, Node.js y bases de datos relacionales.
+* 🎯 Mi objetivo es consolidarme como Desarrollador Full-Stack, escribiendo código limpio, bien documentado y fácil de mantener.
+* 📍 Basado en Ambato, Ecuador 🇪🇨.
 
-## 🚀 Mis habilidades
+## 🛠️ Habilidades y Tecnologías
+* **Frontend:** React, Next.js, JavaScript, TypeScript, HTML, CSS.
+* **Backend & APIs:** Node.js, Express, Java, SpringBoot, Python, SQL, PostgreSQL.
+* **Diseño & UI/UX:** Tailwind CSS, Responsive Design, CSS Grid, Flexbox, Figma, Prototipos.
+* **Herramientas & Conceptos:** Git, GitHub, NPM, VS Code, Clean Code, Metodologías Ágiles.
 
-- Desarrollo web con  HTML, CSS, JavaScript
-- Manejo de base de datos con MySQL, Oracle
-<p align="center">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="oracle">
-</p>
-  
-## 🌱 Actualmente estoy aprendiendo
+## 📂 Proyectos Destacados
 
-Estoy enfocado en mejorar mis habilidades en desarrollo web y aplicaciones moviles.
+### 🚌 [Plataforma para la compra de tickets en terminal de buses](https://github.com/Davidl2002/Buses_Front)
+Sistema de venta de boletos en línea para terminales de buses, con selección de rutas, horarios y pagos seguros.
+* **Tecnologías:** JavaScript, PostgreSQL.
 
-## 📫 Cómo contactarme
+### ✂️ [Gestor de barberías](https://github.com/Davidl2002/Fronted_Barberia)
+Aplicación para administrar citas, clientes y servicios en barberías, con interfaz intuitiva y sistema de notificaciones.
+* **Tecnologías:** TypeScript, HTML, CSS.
 
-- Correo electrónico: dl735894@gmail.com (mailto:dl735894@gmail.com)
+### 🏥 [Plataforma para adquirir seguros médicos](https://github.com/Davidl2002/front_seguros_medicos)
+Portal web para comparar y adquirir seguros médicos, con filtros avanzados, cotizaciones en tiempo real y proceso de compra simplificado.
+* **Tecnologías:** JavaScript, TypeScript, HTML, CSS.
 
-¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones. Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
-
-¡Hagamos cosas increíbles juntos! 🚀
+## 📫 Conecta conmigo
+* 💼 **LinkedIn:** [David Lopez](https://www.linkedin.com/in/david-lopez-ab7a96376/)
+* 🐙 **GitHub:** [@Davidl2002](https://github.com/Davidl2002)
+* 📸 **Instagram:** [@davidlopez._2](https://www.instagram.com/davidlopez._2/)
+* 📧 **Email:** dl735894@gmail.com
